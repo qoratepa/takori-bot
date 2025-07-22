@@ -1,0 +1,3 @@
+BOT_TOKEN = "8079581459:AAHHYiifEYg1tx-Kl09Iyl5aJC2utwnHb5E"
+REQUIRED_CHANNEL = "@fargona24news"
+LANGUAGES = ["uz", "ru"]
